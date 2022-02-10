@@ -1,12 +1,6 @@
 - 👋 Hi, I’m @Beli-Ijazah
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-Beli-Ijazah/Beli-Ijazah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Anda hanya perlu menyiapkan syarat data saja untuk bisa memulai jasa pembuatan ijazah. Adapun dokumen dimaksud dapat dikirimkan secara online melalui email, berupa identitas diri, data sebelumnya (jika sudah ada), dan tujuan universitas yang direncanakan.
 
-Selengkapnya cek di Jasa Pembuatan Ijazah
+Mau beli ijazah plasu tapi asli?? Selengkapnya cek di [Jasa Pembuatan Ijazah] (https://www.dokterjasa.com/)
